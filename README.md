@@ -4,13 +4,13 @@
 
 环境：
 --------------------
- * mysql
+ * mysql 
  * virtualenv
- * flask
- * flask-MySQLdb    //flask-sqlalchemy的依赖包
- * flask-sqlalchemy    //操作数据库
- * flask-wtforms    //表单渲染和验证
- * flask-mail
+ * flask             //安装：pip install Flask
+ * flask-MySQLdb     //flask-sqlalchemy的依赖包，安装：pip install flask-sqlalchemy
+ * flask-sqlalchemy  //操作数据库 安装：https://pypi.python.org/pypi/MySQL-python，下载安装
+ * flask-wtforms     //表单渲染和验证
+ * flask-mail        //安装：pip install flask-mail
 
 
 框架：
