@@ -4,13 +4,13 @@
 
 环境：
 --------------------
-  mysql
-  virtualenv
-  flask
-  flask-MySQLdb    //flask-sqlalchemy的依赖包
-  flask-sqlalchemy    //操作数据库
-  flask-wtforms    //表单渲染和验证
-  flask-mail
+ * mysql
+ * virtualenv
+ * flask
+ * flask-MySQLdb    //flask-sqlalchemy的依赖包
+ * flask-sqlalchemy    //操作数据库
+ * flask-wtforms    //表单渲染和验证
+ * flask-mail
 
 
 框架：
